@@ -1,6 +1,6 @@
-### Hi there 👋
 
-
+![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
+# Hello Everyone
   
  Welcome to my page! I am Nastaran and a self-learner.
  
@@ -11,6 +11,12 @@
  🌱 Looking for more growth and learn new technology.
 
  😄 I am here for fun and learning. 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nas26&layout=compact)](https://github.com/Nas26)
+
+ 
+![](https://img.shields.io/badge/Code-javascript-informational?style=flat&logo=Javascript&color=61DAFB)
+![](https://img.shields.io/badge/Code-java-informational?style=flat&logo=Java&color=E34F26)
 
  
 
