@@ -16,9 +16,12 @@
 
  😄 I am here for fun and learning. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nas26&layout=compact)](https://github.com/Nas26)
+
 
  
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nas26&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nas26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
   GitHub Trophies
