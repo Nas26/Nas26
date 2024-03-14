@@ -2,9 +2,9 @@
 <!--![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)-->
 
  <div style="display: flex; justify-content: center;">
-   <center>
-<h1 align="center"
-  ">Welcome to my page!</h1> <br><br>
+   
+<h1 align="center" style=""
+  ">Welcome to my page!</h1> <br><br> 
  <p align="center">
   <kbd> <img src="https://images.pexels.com/photos/633409/pexels-photo-633409.jpeg?auto=compress&cs=tinysrgb&w=600" style="border: 3px solid red; height:300px; border-radius: 10px;" ></kbd></p> <br></br>
  
@@ -14,7 +14,7 @@
 
  🌱 Looking for more growth and learn new technology.
 
- 😄 I am here for fun and learning. 
+ 😄 $\textcolor{yellow}{I\ am\ here\ for\ fun \ and \ learning}$
 
 
 
