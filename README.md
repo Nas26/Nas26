@@ -1,6 +1,7 @@
 
 <!--![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)-->
 
+
  <div style="display: flex; justify-content: center;">
    
 <h1 align="center" style=""
@@ -20,7 +21,7 @@
 
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nas26&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nas26&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nas26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -34,6 +35,7 @@
 [![](https://visitcount.itsvg.in/api?id=Nas26&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!--
+![](https://github-readme-stats.vercel.app/api?username=Nas26&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://img.shields.io/badge/Code-javascript-informational?style=flat&logo=Javascript&color=61DAFB)
 ![](https://img.shields.io/badge/Code-java-informational?style=flat&logo=Java&color=E34F26)
